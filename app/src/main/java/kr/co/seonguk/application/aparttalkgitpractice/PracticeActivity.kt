@@ -7,5 +7,7 @@ class PracticeActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_practice)
+
+        //이게 될까요?
     }
 }
