@@ -9,5 +9,6 @@ class PracticeActivity : AppCompatActivity() {
         setContentView(R.layout.activity_practice)
 
         //이게 될까요?
+        // 주석추가
     }
 }
